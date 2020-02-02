@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vueraeshu.rulebasedintegration.org/sitemap.xml
